@@ -14,7 +14,9 @@ Este é um programa simples em Python para gerenciar uma lista de alunos, suas n
 - Gerar e exibir um diário da turma formatado.
 
   PRIMEIRO: Pegue o repositório e cole em seu python.
+  
   SEGUNDO: Execute o Programa.
+  
   TERCEIRO: Irá aparecer uma lista de escolhas, só selecionar a que você quer.
 
   Feito por: Angelo Polli Bernardi ( Angelitus )
